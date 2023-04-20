@@ -28,6 +28,7 @@ namespace ServerShared
             CardReaderDatabase();
             ContollAccessDatabase();
         }
+        
         public void SendLogToAccessDatabase(bool res, TCPipData data)
         {
             Random rnd = new Random();
