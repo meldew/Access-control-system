@@ -19,7 +19,7 @@ namespace ServerShared
         private NpgsqlCommand cmd;
         public ComMedDatabase()
         {
-            var cs = "Host=20.56.240.122;Username=h590327;Password=1998Kir1;Database=h590327";
+        var cs = "Host=20.56.240.122;Username=#######;Password=######;Database=######";
             con = new NpgsqlConnection(cs);
             con.Open();
             cmd = new NpgsqlCommand();
