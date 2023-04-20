@@ -49,7 +49,10 @@
             this.SuspendLayout();
             // 
             // AlarmVindu
-            // 
+           
+            //
+            
+            
             this.AlarmVindu.FormattingEnabled = true;
             this.AlarmVindu.ItemHeight = 15;
             this.AlarmVindu.Location = new System.Drawing.Point(12, 12);
