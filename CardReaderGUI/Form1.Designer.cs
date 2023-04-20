@@ -54,13 +54,14 @@
             ((System.ComponentModel.ISupportInitialize)(this.Kortleser_Alarm)).BeginInit();
             this.SuspendLayout();
             // 
-            // CardReaderInformation
+            // CardReaderInformation, test
             // 
             this.CardReaderInformation.AutoSize = true;
             this.CardReaderInformation.Location = new System.Drawing.Point(12, 9);
             this.CardReaderInformation.Name = "CardReaderInformation";
             this.CardReaderInformation.Size = new System.Drawing.Size(72, 15);
             this.CardReaderInformation.TabIndex = 1;
+            
             this.CardReaderInformation.Text = "Information:";
             // 
             // CardReader_AccessButton
